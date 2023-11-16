@@ -2,15 +2,16 @@
 Dissertation 
 CONTENT
 
-0.  	ABSTRACT
-1.   	INTRODUCTION
-2.  	RELATED WORK 
-3. 	EXPERIMENTAL METHODOLOGY (A. Datasets and Data Pre-Processing	B. Learning Algorithms	D. Accuracy Tables	E. Neural Networks	F. Experimental Results	D.  Accuracy Tables:  	E.  Neural Networks:	F. Experimental Results)	
-4.	CONCLUSION
-5. 	FUTURE WORK
-6.	KEYWORDS	
-7.	REFERENCE
+0.  	 ABSTRACT
+1.   	 INTRODUCTION
+2.  	 RELATED WORK 
+3.  	 EXPERIMENTAL METHODOLOGY (A. Datasets and Data Pre-Processing	B. Learning Algorithms	D. Accuracy Tables	E. Neural Networks	F. Experimental Results)	
+4.	   CONCLUSION
+5. 	   FUTURE WORK
+6.	   KEYWORDS	
+7.	   REFERENCE
 
-Refer to the Presentation [PresentationFinale.pdf](https://github.com/Heimeinsheu/software_defects_phase1/files/11646026/PresentationFinale.pdf)
+Refer to the Presentation [PresentationFinale.pdf](https://github.com/jyotirmoibiswakarma/softwareDefects/files/13375534/PresentationFinale.pdf)
 
-and Dissertation [Dissertation Submission.pdf](https://github.com/Heimeinsheu/software_defects_phase1/files/11646028/Dissertation.Submission.pdf)
+
+and Dissertation [Dissertation Submission.pdf](https://github.com/jyotirmoibiswakarma/softwareDefects/files/13375521/Dissertation.Submission.pdf)
